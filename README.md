@@ -1,6 +1,7 @@
 # gittesster
 
 conflict
+
 nfjfjsdafajasjf
 fsajfbajsbf
 fnjsabfjabsjf
@@ -9,3 +10,9 @@ bsajbfjasbjfs
 bfjbafjsfjsdaf
 bfdsabfasbfj
 bfabjfbsadf
+
+ko
+ko
+ko
+ko
+
