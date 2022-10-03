@@ -1,1 +1,3 @@
 # gittesster
+
+conflict
